@@ -1,5 +1,3 @@
-### Hi 👋
-
 📚 **MIPT DIHT** student in Informatics and Computational Technologies.
 
 🏫 **Moscow Engineering School No. 1581** after Bauman Moscow State Univerity graduate
