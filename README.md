@@ -5,15 +5,14 @@
 - **2019 Google Science Fair national finalist** (<a href="https://github.com/AlexRoar/alexroar/blob/main/assets/Future%20of%20aviation-digital%20twin%20and%20prediction%20technologies_Google%20Science%20Fair.pdf">see our work</a>)
 - **2018 Worldskills Russia Winner** as drone operator
 
-
 <table>
     <thead>
       <tr>
-      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/linkedin.svg"></td>  
-      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/instagram.svg"></td>    
-      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/vk.svg"></td>  
-      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/telegram.svg"></td>  
-      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/gmail.svg"></td>  
+      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/linkedin.svg"><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/linkedin-w.svg"></td>  
+      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/instagram.svg"><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/instagram-w.svg"></td>    
+      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/vk.svg"><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/vk-w.svg"></td>  
+      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/telegram.svg"><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/telegram-w.svg"></td>  
+      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/gmail.svg"><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/gmail-w.svg"></td>  
       </tr>
     </thead>
     <tbody>
