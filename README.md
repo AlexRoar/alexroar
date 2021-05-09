@@ -13,6 +13,9 @@
       <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/vk.svg"><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/vk-w.svg"></td>  
       <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/telegram.svg"><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/telegram-w.svg"></td>  
       <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/gmail.svg"><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/gmail-w.svg"></td>  
+      <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/cv.svg">
+          <img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/cv-w.svg">
+          </td>  
       </tr>
     </thead>
     <tbody>
@@ -22,8 +25,7 @@
       <td><a href="https://www.linkedin.com/in/aleksandr-dremov-09a216199/">Aleksandr Dremov</a></td>  
       <td><a href="https://t.me/AlexDrem">@AlexDrem</a></td>  
       <td><a href="mailto:dremov.ao@phystech.edu">dremov.ao@phystech.edu</a></td>
+      <td><a href="https://github.com/AlexRoar/alexroar/blob/main/CV_ru.pdf">open</a></td>
       </tr>
     </tbody>
 </table>
-
-- [CV](https://github.com/AlexRoar/alexroar/blob/main/CV_ru.pdf)
