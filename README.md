@@ -14,7 +14,7 @@
       <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/telegram.svg"><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/telegram-w.svg"></td>  
       <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/gmail.svg"><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/gmail-w.svg"></td>  
       <td><img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/cv.svg">
-          <img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/cv-w.svg">
+          <img height="20px" src="https://github.com/AlexRoar/alexroar/raw/main/assets/cv-wh.svg">
           </td>  
       </tr>
     </thead>
