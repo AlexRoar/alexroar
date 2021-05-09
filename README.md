@@ -25,3 +25,5 @@
       </tr>
     </tbody>
 </table>
+
+- [CV](https://github.com/AlexRoar/alexroar/blob/main/CV_ru.pdf)
