@@ -1,3 +1,5 @@
+![AlexRoar' github stats](https://github-readme-stats.vercel.app/api?username=AlexRoar&count_private=true&show_icons=true&theme=radical)
+
 📚 **MIPT DIHT** student in Informatics and Computational Technologies.
 
 🏫 **Moscow Engineering School No. 1581** after Bauman Moscow State Univerity graduate
