@@ -1,4 +1,4 @@
-![AlexRoar' github stats](https://github-readme-stats.vercel.app/api?username=AlexRoar&count_private=true&show_icons=true&theme=radical)
+![AlexRoar' github stats](https://github-readme-stats.vercel.app/api?username=AlexRoar&count_private=true&show_icons=true&hide=prs,issues)
 
 📚 **MIPT DIHT** student in Informatics and Computational Technologies.
 
