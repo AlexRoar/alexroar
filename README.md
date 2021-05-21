@@ -1,4 +1,9 @@
-![AlexRoar' github stats](https://github-readme-stats.vercel.app/api?username=AlexRoar&count_private=true&show_icons=true&hide=prs,issues)
+# About me
+Hi, Alex 👌
+
+Here, you can find my projects as well as my university assignments.
+
+Quick info:
 
 📚 **MIPT DIHT** student in Informatics and Computational Technologies.
 
