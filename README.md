@@ -29,7 +29,7 @@ Quick info:
       <tr>
       <td><a href="https://www.linkedin.com/in/aleksandr-dremov-09a216199/">Aleksandr Dremov</a></td>  
       <td><a href="https://www.instagram.com/alex__roar/">@alex__roar</a></td>    
-      <td><a href="https://www.linkedin.com/in/aleksandr-dremov-09a216199/">Aleksandr Dremov</a></td>  
+      <td><a href="https://vk.com/alex__roar/">Aleksandr Dremov</a></td>  
       <td><a href="https://t.me/AlexDrem">@AlexDrem</a></td>  
       <td><a href="mailto:dremov.ao@phystech.edu">dremov.ao@phystech.edu</a></td>
       <td><a href="https://github.com/AlexRoar/alexroar/blob/main/CV_ru.pdf">CV</a></td>
